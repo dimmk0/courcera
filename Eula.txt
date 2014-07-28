@@ -14,6 +14,8 @@ BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NO
 If you comply with these license terms, you have the rights below.
 
 
+hohoho
+
 
 2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Sysinternals reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.
 
